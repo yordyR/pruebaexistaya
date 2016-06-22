@@ -1,0 +1,12 @@
+[22-Jun-2016 16:10:12 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/impulso/public_html/pruebas/wp-content/themes/miprueba/index.php on line 12
+[22-Jun-2016 16:10:44 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/impulso/public_html/pruebas/wp-content/themes/miprueba/index.php on line 12
+[22-Jun-2016 16:10:57 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/impulso/public_html/pruebas/wp-content/themes/miprueba/index.php on line 16
+[22-Jun-2016 16:11:00 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/impulso/public_html/pruebas/wp-content/themes/miprueba/index.php on line 16
+[22-Jun-2016 16:11:03 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/impulso/public_html/pruebas/wp-content/themes/miprueba/index.php on line 16
+[22-Jun-2016 16:11:58 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home/impulso/public_html/pruebas/wp-content/themes/miprueba/index.php on line 22
+[22-Jun-2016 16:12:04 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home/impulso/public_html/pruebas/wp-content/themes/miprueba/index.php on line 22
+[22-Jun-2016 16:13:21 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home/impulso/public_html/pruebas/wp-content/themes/miprueba/index.php on line 22
+[22-Jun-2016 16:13:22 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home/impulso/public_html/pruebas/wp-content/themes/miprueba/index.php on line 22
+[22-Jun-2016 16:13:31 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home/impulso/public_html/pruebas/wp-content/themes/miprueba/index.php on line 22
+[22-Jun-2016 16:13:54 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home/impulso/public_html/pruebas/wp-content/themes/miprueba/index.php on line 22
+[22-Jun-2016 16:17:02 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/impulso/public_html/pruebas/wp-content/themes/miprueba/functions.php on line 52
